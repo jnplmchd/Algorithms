@@ -1,4 +1,5 @@
 
+//The idea of the algorithm is to find the min and max of an array and input them into a new array
 public class Assignment5 {
 	
 	//Recursive
