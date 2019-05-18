@@ -1,4 +1,5 @@
 
+//This algorithm finds the median of the list of integers by checking if each each integer is greater than or less than its counterpart.
 public class Median {
 //always an odd number of elements
 //elements can have duplicates
